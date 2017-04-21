@@ -1,0 +1,1355 @@
+{
+  "success": "1",
+  "result": {
+    "48": {
+      "weaid": "48",
+      "citynm": "石家庄",
+      "cityno": "shijiazhuang",
+      "cityid": "101090101",
+      "area_1": "河北",
+      "area_2": "石家庄",
+      "area_3": "城区"
+    },
+    "49": {
+      "weaid": "49",
+      "citynm": "张家口",
+      "cityno": "zhangjiakou",
+      "cityid": "101090301",
+      "area_1": "河北",
+      "area_2": "张家口",
+      "area_3": "城区"
+    },
+    "50": {
+      "weaid": "50",
+      "citynm": "承德",
+      "cityno": "chengde",
+      "cityid": "101090402",
+      "area_1": "河北",
+      "area_2": "承德",
+      "area_3": "城区"
+    },
+    "51": {
+      "weaid": "51",
+      "citynm": "唐山",
+      "cityno": "tangshan",
+      "cityid": "101090501",
+      "area_1": "河北",
+      "area_2": "唐山",
+      "area_3": "城区"
+    },
+    "52": {
+      "weaid": "52",
+      "citynm": "秦皇岛",
+      "cityno": "qinhuangdao",
+      "cityid": "101091101",
+      "area_1": "河北",
+      "area_2": "秦皇岛",
+      "area_3": "城区"
+    },
+    "53": {
+      "weaid": "53",
+      "citynm": "沧州",
+      "cityno": "cangzhou",
+      "cityid": "101090701",
+      "area_1": "河北",
+      "area_2": "沧州",
+      "area_3": "城区"
+    },
+    "54": {
+      "weaid": "54",
+      "citynm": "衡水",
+      "cityno": "hengshui",
+      "cityid": "101090801",
+      "area_1": "河北",
+      "area_2": "衡水",
+      "area_3": "城区"
+    },
+    "55": {
+      "weaid": "55",
+      "citynm": "邢台",
+      "cityno": "xingtai",
+      "cityid": "101090901",
+      "area_1": "河北",
+      "area_2": "邢台",
+      "area_3": "城区"
+    },
+    "56": {
+      "weaid": "56",
+      "citynm": "邯郸",
+      "cityno": "handan",
+      "cityid": "101091001",
+      "area_1": "河北",
+      "area_2": "邯郸",
+      "area_3": "城区"
+    },
+    "57": {
+      "weaid": "57",
+      "citynm": "保定",
+      "cityno": "baoding",
+      "cityid": "101090201",
+      "area_1": "河北",
+      "area_2": "保定",
+      "area_3": "城区"
+    },
+    "58": {
+      "weaid": "58",
+      "citynm": "廊坊",
+      "cityno": "langfang",
+      "cityid": "101090601",
+      "area_1": "河北",
+      "area_2": "廊坊",
+      "area_3": "城区"
+    },
+    "454": {
+      "weaid": "454",
+      "citynm": "安国",
+      "cityno": "anguo",
+      "cityid": "101090220",
+      "area_1": "河北",
+      "area_2": "保定",
+      "area_3": "安国"
+    },
+    "465": {
+      "weaid": "465",
+      "citynm": "安平",
+      "cityno": "anping",
+      "cityid": "101090806",
+      "area_1": "河北",
+      "area_2": "衡水",
+      "area_3": "安平"
+    },
+    "471": {
+      "weaid": "471",
+      "citynm": "安新",
+      "cityno": "anxin",
+      "cityid": "101090211",
+      "area_1": "河北",
+      "area_2": "保定",
+      "area_3": "安新"
+    },
+    "512": {
+      "weaid": "512",
+      "citynm": "泊头",
+      "cityno": "botou",
+      "cityid": "101090711",
+      "area_1": "河北",
+      "area_2": "沧州",
+      "area_3": "泊头"
+    },
+    "523": {
+      "weaid": "523",
+      "citynm": "霸州",
+      "cityno": "bazhou",
+      "cityid": "101090608",
+      "area_1": "河北",
+      "area_2": "廊坊",
+      "area_3": "霸州"
+    },
+    "531": {
+      "weaid": "531",
+      "citynm": "赤城",
+      "cityno": "chicheng",
+      "cityid": "101090313",
+      "area_1": "河北",
+      "area_2": "张家口",
+      "area_3": "赤城"
+    },
+    "554": {
+      "weaid": "554",
+      "citynm": "昌黎",
+      "cityno": "changli",
+      "cityid": "101091103",
+      "area_1": "河北",
+      "area_2": "秦皇岛",
+      "area_3": "昌黎"
+    },
+    "555": {
+      "weaid": "555",
+      "citynm": "崇礼",
+      "cityno": "chongli",
+      "cityid": "101090314",
+      "area_1": "河北",
+      "area_2": "张家口",
+      "area_3": "崇礼"
+    },
+    "609": {
+      "weaid": "609",
+      "citynm": "大城",
+      "cityno": "dacheng",
+      "cityid": "101090605",
+      "area_1": "河北",
+      "area_2": "廊坊",
+      "area_3": "大城"
+    },
+    "610": {
+      "weaid": "610",
+      "citynm": "大厂",
+      "cityno": "dachang",
+      "cityid": "101090607",
+      "area_1": "河北",
+      "area_2": "廊坊",
+      "area_3": "大厂"
+    },
+    "619": {
+      "weaid": "619",
+      "citynm": "东光",
+      "cityno": "dongguang",
+      "cityid": "101090703",
+      "area_1": "河北",
+      "area_2": "沧州",
+      "area_3": "东光"
+    },
+    "686": {
+      "weaid": "686",
+      "citynm": "定州",
+      "cityno": "dingzhou",
+      "cityid": "101090219",
+      "area_1": "河北",
+      "area_2": "保定",
+      "area_3": "定州"
+    },
+    "725": {
+      "weaid": "725",
+      "citynm": "丰南",
+      "cityno": "fengnan",
+      "cityid": "101090502",
+      "area_1": "河北",
+      "area_2": "唐山",
+      "area_3": "丰南"
+    },
+    "729": {
+      "weaid": "729",
+      "citynm": "丰宁",
+      "cityno": "fengning",
+      "cityid": "101090408",
+      "area_1": "河北",
+      "area_2": "承德",
+      "area_3": "丰宁"
+    },
+    "730": {
+      "weaid": "730",
+      "citynm": "阜平",
+      "cityno": "hbfuping",
+      "cityid": "101090203",
+      "area_1": "河北",
+      "area_2": "保定",
+      "area_3": "阜平"
+    },
+    "737": {
+      "weaid": "737",
+      "citynm": "丰润",
+      "cityno": "fengrun",
+      "cityid": "101090503",
+      "area_1": "河北",
+      "area_2": "唐山",
+      "area_3": "丰润"
+    },
+    "746": {
+      "weaid": "746",
+      "citynm": "肥乡",
+      "cityno": "feixiang",
+      "cityid": "101091008",
+      "area_1": "河北",
+      "area_2": "邯郸",
+      "area_3": "肥乡"
+    },
+    "772": {
+      "weaid": "772",
+      "citynm": "固安",
+      "cityno": "guan",
+      "cityid": "101090602",
+      "area_1": "河北",
+      "area_2": "廊坊",
+      "area_3": "固安"
+    },
+    "773": {
+      "weaid": "773",
+      "citynm": "高碑店",
+      "cityno": "gaobeidian",
+      "cityid": "101090221",
+      "area_1": "河北",
+      "area_2": "保定",
+      "area_3": "高碑店"
+    },
+    "774": {
+      "weaid": "774",
+      "citynm": "藁城",
+      "cityno": "gaocheng",
+      "cityid": "101090115",
+      "area_1": "河北",
+      "area_2": "石家庄",
+      "area_3": "藁城"
+    },
+    "808": {
+      "weaid": "808",
+      "citynm": "广平",
+      "cityno": "guangping",
+      "cityid": "101091012",
+      "area_1": "河北",
+      "area_2": "邯郸",
+      "area_3": "广平"
+    },
+    "818": {
+      "weaid": "818",
+      "citynm": "馆陶",
+      "cityno": "guantao",
+      "cityid": "101091013",
+      "area_1": "河北",
+      "area_2": "邯郸",
+      "area_3": "馆陶"
+    },
+    "826": {
+      "weaid": "826",
+      "citynm": "高阳",
+      "cityno": "gaoyang",
+      "cityid": "101090206",
+      "area_1": "河北",
+      "area_2": "保定",
+      "area_3": "高阳"
+    },
+    "832": {
+      "weaid": "832",
+      "citynm": "高邑",
+      "cityno": "gaoyi",
+      "cityid": "101090107",
+      "area_1": "河北",
+      "area_2": "石家庄",
+      "area_3": "高邑"
+    },
+    "835": {
+      "weaid": "835",
+      "citynm": "沽源",
+      "cityno": "hbguyuan",
+      "cityid": "101090305",
+      "area_1": "河北",
+      "area_2": "张家口",
+      "area_3": "沽源"
+    },
+    "847": {
+      "weaid": "847",
+      "citynm": "怀安",
+      "cityno": "hbhuaian",
+      "cityid": "101090309",
+      "area_1": "河北",
+      "area_2": "张家口",
+      "area_3": "怀安"
+    },
+    "874": {
+      "weaid": "874",
+      "citynm": "黄骅",
+      "cityno": "huanghua",
+      "cityid": "101090713",
+      "area_1": "河北",
+      "area_2": "沧州",
+      "area_3": "黄骅"
+    },
+    "876": {
+      "weaid": "876",
+      "citynm": "河间",
+      "cityno": "hejian",
+      "cityid": "101090714",
+      "area_1": "河北",
+      "area_2": "沧州",
+      "area_3": "河间"
+    },
+    "888": {
+      "weaid": "888",
+      "citynm": "怀来",
+      "cityno": "huailai",
+      "cityid": "101090311",
+      "area_1": "河北",
+      "area_2": "张家口",
+      "area_3": "怀来"
+    },
+    "1000": {
+      "weaid": "1000",
+      "citynm": "井陉",
+      "cityno": "jingxing",
+      "cityid": "101090102",
+      "area_1": "河北",
+      "area_2": "石家庄",
+      "area_3": "井陉"
+    },
+    "1075": {
+      "weaid": "1075",
+      "citynm": "晋州",
+      "cityno": "hbjinzhou",
+      "cityid": "101090116",
+      "area_1": "河北",
+      "area_2": "石家庄",
+      "area_3": "晋州"
+    },
+    "1081": {
+      "weaid": "1081",
+      "citynm": "康保",
+      "cityno": "kangbao",
+      "cityid": "101090304",
+      "area_1": "河北",
+      "area_2": "张家口",
+      "area_3": "康保"
+    },
+    "1083": {
+      "weaid": "1083",
+      "citynm": "宽城",
+      "cityno": "kuancheng",
+      "cityid": "101090409",
+      "area_1": "河北",
+      "area_2": "承德",
+      "area_3": "宽城"
+    },
+    "1114": {
+      "weaid": "1114",
+      "citynm": "栾城",
+      "cityno": "luancheng",
+      "cityid": "101090104",
+      "area_1": "河北",
+      "area_2": "石家庄",
+      "area_3": "栾城"
+    },
+    "1154": {
+      "weaid": "1154",
+      "citynm": "隆化",
+      "cityno": "longhua",
+      "cityid": "101090407",
+      "area_1": "河北",
+      "area_2": "承德",
+      "area_3": "隆化"
+    },
+    "1184": {
+      "weaid": "1184",
+      "citynm": "滦南",
+      "cityno": "luannan",
+      "cityid": "101090505",
+      "area_1": "河北",
+      "area_2": "唐山",
+      "area_3": "滦南"
+    },
+    "1200": {
+      "weaid": "1200",
+      "citynm": "灵寿",
+      "cityno": "lingshou",
+      "cityid": "101090106",
+      "area_1": "河北",
+      "area_2": "石家庄",
+      "area_3": "灵寿"
+    },
+    "1227": {
+      "weaid": "1227",
+      "citynm": "乐亭",
+      "cityno": "leting",
+      "cityid": "101090506",
+      "area_1": "河北",
+      "area_2": "唐山",
+      "area_3": "乐亭"
+    },
+    "1232": {
+      "weaid": "1232",
+      "citynm": "蠡县",
+      "cityno": "lixian",
+      "cityid": "101090215",
+      "area_1": "河北",
+      "area_2": "保定",
+      "area_3": "蠡县"
+    },
+    "1265": {
+      "weaid": "1265",
+      "citynm": "涞源",
+      "cityno": "laiyuan",
+      "cityid": "101090209",
+      "area_1": "河北",
+      "area_2": "保定",
+      "area_3": "涞源"
+    },
+    "1283": {
+      "weaid": "1283",
+      "citynm": "满城",
+      "cityno": "mancheng",
+      "cityid": "101090202",
+      "area_1": "河北",
+      "area_2": "保定",
+      "area_3": "满城"
+    },
+    "1360": {
+      "weaid": "1360",
+      "citynm": "南宫",
+      "cityno": "nangong",
+      "cityid": "101090916",
+      "area_1": "河北",
+      "area_2": "邢台",
+      "area_3": "南宫"
+    },
+    "1431": {
+      "weaid": "1431",
+      "citynm": "平泉",
+      "cityno": "pingquan",
+      "cityid": "101090405",
+      "area_1": "河北",
+      "area_2": "承德",
+      "area_3": "平泉"
+    },
+    "1434": {
+      "weaid": "1434",
+      "citynm": "平山",
+      "cityno": "pingshan",
+      "cityid": "101090111",
+      "area_1": "河北",
+      "area_2": "石家庄",
+      "area_3": "平山"
+    },
+    "1466": {
+      "weaid": "1466",
+      "citynm": "迁安",
+      "cityno": "qianan",
+      "cityid": "101090511",
+      "area_1": "河北",
+      "area_2": "唐山",
+      "area_3": "迁安"
+    },
+    "1500": {
+      "weaid": "1500",
+      "citynm": "迁西",
+      "cityno": "qianxi",
+      "cityid": "101090507",
+      "area_1": "河北",
+      "area_2": "唐山",
+      "area_3": "迁西"
+    },
+    "1501": {
+      "weaid": "1501",
+      "citynm": "青县",
+      "cityno": "qingxian",
+      "cityid": "101090702",
+      "area_1": "河北",
+      "area_2": "沧州",
+      "area_3": "青县"
+    },
+    "1510": {
+      "weaid": "1510",
+      "citynm": "曲阳",
+      "cityno": "quyang",
+      "cityid": "101090214",
+      "area_1": "河北",
+      "area_2": "保定",
+      "area_3": "曲阳"
+    },
+    "1517": {
+      "weaid": "1517",
+      "citynm": "清苑",
+      "cityno": "hbqingyuan",
+      "cityid": "101090224",
+      "area_1": "河北",
+      "area_2": "保定",
+      "area_3": "清苑"
+    },
+    "1521": {
+      "weaid": "1521",
+      "citynm": "曲周",
+      "cityno": "hbquzhou",
+      "cityid": "101091015",
+      "area_1": "河北",
+      "area_2": "邯郸",
+      "area_3": "曲周"
+    },
+    "1527": {
+      "weaid": "1527",
+      "citynm": "容城",
+      "cityno": "rongcheng",
+      "cityid": "101090207",
+      "area_1": "河北",
+      "area_2": "保定",
+      "area_3": "容城"
+    },
+    "1538": {
+      "weaid": "1538",
+      "citynm": "滦平",
+      "cityno": "luanping",
+      "cityid": "101090406",
+      "area_1": "河北",
+      "area_2": "承德",
+      "area_3": "滦平"
+    },
+    "1540": {
+      "weaid": "1540",
+      "citynm": "任丘",
+      "cityno": "renqiu",
+      "cityid": "101090712",
+      "area_1": "河北",
+      "area_2": "沧州",
+      "area_3": "任丘"
+    },
+    "1544": {
+      "weaid": "1544",
+      "citynm": "滦县",
+      "cityno": "luanxian",
+      "cityid": "101090504",
+      "area_1": "河北",
+      "area_2": "唐山",
+      "area_3": "滦县"
+    },
+    "1580": {
+      "weaid": "1580",
+      "citynm": "三河",
+      "cityno": "sanhe",
+      "cityid": "101090609",
+      "area_1": "河北",
+      "area_2": "廊坊",
+      "area_3": "三河"
+    },
+    "1581": {
+      "weaid": "1581",
+      "citynm": "沙河",
+      "cityno": "shahe",
+      "cityid": "101090917",
+      "area_1": "河北",
+      "area_2": "邢台",
+      "area_3": "沙河"
+    },
+    "1613": {
+      "weaid": "1613",
+      "citynm": "顺平",
+      "cityno": "shunping",
+      "cityid": "101090216",
+      "area_1": "河北",
+      "area_2": "保定",
+      "area_3": "顺平"
+    },
+    "1634": {
+      "weaid": "1634",
+      "citynm": "涉县",
+      "cityno": "shexian",
+      "cityid": "101091006",
+      "area_1": "河北",
+      "area_2": "邯郸",
+      "area_3": "涉县"
+    },
+    "1653": {
+      "weaid": "1653",
+      "citynm": "尚义",
+      "cityno": "shangyi",
+      "cityid": "101090306",
+      "area_1": "河北",
+      "area_2": "张家口",
+      "area_3": "尚义"
+    },
+    "1660": {
+      "weaid": "1660",
+      "citynm": "深泽",
+      "cityno": "shenze",
+      "cityid": "101090108",
+      "area_1": "河北",
+      "area_2": "石家庄",
+      "area_3": "深泽"
+    },
+    "1687": {
+      "weaid": "1687",
+      "citynm": "唐海",
+      "cityno": "tanghai",
+      "cityid": "101090509",
+      "area_1": "河北",
+      "area_2": "唐山",
+      "area_3": "曹妃甸"
+    },
+    "1729": {
+      "weaid": "1729",
+      "citynm": "唐县",
+      "cityno": "tangxian",
+      "cityid": "101090205",
+      "area_1": "河北",
+      "area_2": "保定",
+      "area_3": "唐县"
+    },
+    "1745": {
+      "weaid": "1745",
+      "citynm": "武安",
+      "cityno": "wuan",
+      "cityid": "101091016",
+      "area_1": "河北",
+      "area_2": "邯郸",
+      "area_3": "武安"
+    },
+    "1747": {
+      "weaid": "1747",
+      "citynm": "文安",
+      "cityno": "wenan",
+      "cityid": "101090606",
+      "area_1": "河北",
+      "area_2": "廊坊",
+      "area_3": "文安"
+    },
+    "1752": {
+      "weaid": "1752",
+      "citynm": "围场",
+      "cityno": "weichang",
+      "cityid": "101090410",
+      "area_1": "河北",
+      "area_2": "承德",
+      "area_3": "围场"
+    },
+    "1762": {
+      "weaid": "1762",
+      "citynm": "望都",
+      "cityno": "wangdu",
+      "cityid": "101090210",
+      "area_1": "河北",
+      "area_2": "保定",
+      "area_3": "望都"
+    },
+    "1771": {
+      "weaid": "1771",
+      "citynm": "无极",
+      "cityno": "wuji",
+      "cityid": "101090110",
+      "area_1": "河北",
+      "area_2": "石家庄",
+      "area_3": "无极"
+    },
+    "1792": {
+      "weaid": "1792",
+      "citynm": "吴桥",
+      "cityno": "wuqiao",
+      "cityid": "101090708",
+      "area_1": "河北",
+      "area_2": "沧州",
+      "area_3": "吴桥"
+    },
+    "1794": {
+      "weaid": "1794",
+      "citynm": "万全",
+      "cityno": "wanquan",
+      "cityid": "101090310",
+      "area_1": "河北",
+      "area_2": "张家口",
+      "area_3": "万全"
+    },
+    "1809": {
+      "weaid": "1809",
+      "citynm": "蔚县",
+      "cityno": "weixian",
+      "cityid": "101090307",
+      "area_1": "河北",
+      "area_2": "张家口",
+      "area_3": "蔚县"
+    },
+    "1863": {
+      "weaid": "1863",
+      "citynm": "香河",
+      "cityno": "xianghe",
+      "cityid": "101090604",
+      "area_1": "河北",
+      "area_2": "廊坊",
+      "area_3": "香河"
+    },
+    "1865": {
+      "weaid": "1865",
+      "citynm": "宣化",
+      "cityno": "xuanhua",
+      "cityid": "101090302",
+      "area_1": "河北",
+      "area_2": "张家口",
+      "area_3": "宣化"
+    },
+    "1872": {
+      "weaid": "1872",
+      "citynm": "辛集",
+      "cityno": "xinji",
+      "cityid": "101090114",
+      "area_1": "河北",
+      "area_2": "石家庄",
+      "area_3": "辛集"
+    },
+    "1882": {
+      "weaid": "1882",
+      "citynm": "新乐",
+      "cityno": "xinle",
+      "cityid": "101090117",
+      "area_1": "河北",
+      "area_2": "石家庄",
+      "area_3": "新乐"
+    },
+    "1885": {
+      "weaid": "1885",
+      "citynm": "兴隆",
+      "cityno": "xinglong",
+      "cityid": "101090404",
+      "area_1": "河北",
+      "area_2": "承德",
+      "area_3": "兴隆"
+    },
+    "1899": {
+      "weaid": "1899",
+      "citynm": "徐水",
+      "cityno": "xushui",
+      "cityid": "101090204",
+      "area_1": "河北",
+      "area_2": "保定",
+      "area_3": "徐水"
+    },
+    "1907": {
+      "weaid": "1907",
+      "citynm": "行唐",
+      "cityno": "xingtang",
+      "cityid": "101090105",
+      "area_1": "河北",
+      "area_2": "石家庄",
+      "area_3": "行唐"
+    },
+    "1917": {
+      "weaid": "1917",
+      "citynm": "雄县",
+      "cityno": "xiongxian",
+      "cityid": "101090217",
+      "area_1": "河北",
+      "area_2": "保定",
+      "area_3": "雄县"
+    },
+    "2021": {
+      "weaid": "2021",
+      "citynm": "永年",
+      "cityno": "yongnian",
+      "cityid": "101091009",
+      "area_1": "河北",
+      "area_2": "邯郸",
+      "area_3": "永年"
+    },
+    "2030": {
+      "weaid": "2030",
+      "citynm": "永清",
+      "cityno": "yongqing",
+      "cityid": "101090603",
+      "area_1": "河北",
+      "area_2": "廊坊",
+      "area_3": "永清"
+    },
+    "2036": {
+      "weaid": "2036",
+      "citynm": "元氏",
+      "cityno": "yuanshi",
+      "cityid": "101090112",
+      "area_1": "河北",
+      "area_2": "石家庄",
+      "area_3": "元氏"
+    },
+    "2056": {
+      "weaid": "2056",
+      "citynm": "玉田",
+      "cityno": "hbyutian",
+      "cityid": "101090508",
+      "area_1": "河北",
+      "area_2": "唐山",
+      "area_3": "玉田"
+    },
+    "2060": {
+      "weaid": "2060",
+      "citynm": "易县",
+      "cityno": "hbyixian",
+      "cityid": "101090212",
+      "area_1": "河北",
+      "area_2": "保定",
+      "area_3": "易县"
+    },
+    "2085": {
+      "weaid": "2085",
+      "citynm": "阳原",
+      "cityno": "yangyuan",
+      "cityid": "101090308",
+      "area_1": "河北",
+      "area_2": "张家口",
+      "area_3": "阳原"
+    },
+    "2099": {
+      "weaid": "2099",
+      "citynm": "张北",
+      "cityno": "zhangbei",
+      "cityid": "101090303",
+      "area_1": "河北",
+      "area_2": "张家口",
+      "area_3": "张北"
+    },
+    "2104": {
+      "weaid": "2104",
+      "citynm": "正定",
+      "cityno": "zhengding",
+      "cityid": "101090103",
+      "area_1": "河北",
+      "area_2": "石家庄",
+      "area_3": "正定"
+    },
+    "2116": {
+      "weaid": "2116",
+      "citynm": "遵化",
+      "cityno": "zunhua",
+      "cityid": "101090510",
+      "area_1": "河北",
+      "area_2": "唐山",
+      "area_3": "遵化"
+    },
+    "2117": {
+      "weaid": "2117",
+      "citynm": "赞皇",
+      "cityno": "zanhuang",
+      "cityid": "101090109",
+      "area_1": "河北",
+      "area_2": "石家庄",
+      "area_3": "赞皇"
+    },
+    "2133": {
+      "weaid": "2133",
+      "citynm": "涿鹿",
+      "cityno": "zhuolu",
+      "cityid": "101090312",
+      "area_1": "河北",
+      "area_2": "张家口",
+      "area_3": "涿鹿"
+    },
+    "2157": {
+      "weaid": "2157",
+      "citynm": "赵县",
+      "cityno": "zhaoxian",
+      "cityid": "101090113",
+      "area_1": "河北",
+      "area_2": "石家庄",
+      "area_3": "赵县"
+    },
+    "2180": {
+      "weaid": "2180",
+      "citynm": "涿州",
+      "cityno": "zhuozhou",
+      "cityid": "101090218",
+      "area_1": "河北",
+      "area_2": "保定",
+      "area_3": "涿州"
+    },
+    "2212": {
+      "weaid": "2212",
+      "citynm": "深州",
+      "cityno": "shenzhou",
+      "cityid": "101090811",
+      "area_1": "河北",
+      "area_2": "衡水",
+      "area_3": "深州"
+    },
+    "2276": {
+      "weaid": "2276",
+      "citynm": "鹿泉",
+      "cityno": "luquan",
+      "cityid": "101090118",
+      "area_1": "河北",
+      "area_2": "石家庄",
+      "area_3": "鹿泉"
+    },
+    "2277": {
+      "weaid": "2277",
+      "citynm": "涞水",
+      "cityno": "laishui",
+      "cityid": "101090222",
+      "area_1": "河北",
+      "area_2": "保定",
+      "area_3": "涞水"
+    },
+    "2278": {
+      "weaid": "2278",
+      "citynm": "定兴",
+      "cityno": "dingxing",
+      "cityid": "101090223",
+      "area_1": "河北",
+      "area_2": "保定",
+      "area_3": "定兴"
+    },
+    "2279": {
+      "weaid": "2279",
+      "citynm": "博野",
+      "cityno": "boye",
+      "cityid": "101090225",
+      "area_1": "河北",
+      "area_2": "保定",
+      "area_3": "博野"
+    },
+    "2280": {
+      "weaid": "2280",
+      "citynm": "承德县",
+      "cityno": "chengdexian",
+      "cityid": "101090403",
+      "area_1": "河北",
+      "area_2": "承德",
+      "area_3": "承德县"
+    },
+    "2281": {
+      "weaid": "2281",
+      "citynm": "曹妃甸",
+      "cityno": "caofeidian",
+      "cityid": "101090512",
+      "area_1": "河北",
+      "area_2": "唐山",
+      "area_3": "曹妃甸工业区"
+    },
+    "2282": {
+      "weaid": "2282",
+      "citynm": "海兴",
+      "cityno": "haixing",
+      "cityid": "101090704",
+      "area_1": "河北",
+      "area_2": "沧州",
+      "area_3": "海兴"
+    },
+    "2283": {
+      "weaid": "2283",
+      "citynm": "盐山",
+      "cityno": "yanshan",
+      "cityid": "101090705",
+      "area_1": "河北",
+      "area_2": "沧州",
+      "area_3": "盐山"
+    },
+    "2284": {
+      "weaid": "2284",
+      "citynm": "肃宁",
+      "cityno": "suning",
+      "cityid": "101090706",
+      "area_1": "河北",
+      "area_2": "沧州",
+      "area_3": "肃宁"
+    },
+    "2285": {
+      "weaid": "2285",
+      "citynm": "南皮",
+      "cityno": "nanpi",
+      "cityid": "101090707",
+      "area_1": "河北",
+      "area_2": "沧州",
+      "area_3": "南皮"
+    },
+    "2286": {
+      "weaid": "2286",
+      "citynm": "献县",
+      "cityno": "xianxian",
+      "cityid": "101090709",
+      "area_1": "河北",
+      "area_2": "沧州",
+      "area_3": "献县"
+    },
+    "2287": {
+      "weaid": "2287",
+      "citynm": "孟村",
+      "cityno": "mengcun",
+      "cityid": "101090710",
+      "area_1": "河北",
+      "area_2": "沧州",
+      "area_3": "孟村"
+    },
+    "2288": {
+      "weaid": "2288",
+      "citynm": "沧县",
+      "cityno": "cangxian",
+      "cityid": "101090716",
+      "area_1": "河北",
+      "area_2": "沧州",
+      "area_3": "沧县"
+    },
+    "2289": {
+      "weaid": "2289",
+      "citynm": "枣强",
+      "cityno": "zaoqiang",
+      "cityid": "101090802",
+      "area_1": "河北",
+      "area_2": "衡水",
+      "area_3": "枣强"
+    },
+    "2290": {
+      "weaid": "2290",
+      "citynm": "武邑",
+      "cityno": "wuyi",
+      "cityid": "101090803",
+      "area_1": "河北",
+      "area_2": "衡水",
+      "area_3": "武邑"
+    },
+    "2291": {
+      "weaid": "2291",
+      "citynm": "武强",
+      "cityno": "wuqiang",
+      "cityid": "101090804",
+      "area_1": "河北",
+      "area_2": "衡水",
+      "area_3": "武强"
+    },
+    "2292": {
+      "weaid": "2292",
+      "citynm": "饶阳",
+      "cityno": "raoyang",
+      "cityid": "101090805",
+      "area_1": "河北",
+      "area_2": "衡水",
+      "area_3": "饶阳"
+    },
+    "2293": {
+      "weaid": "2293",
+      "citynm": "故城",
+      "cityno": "gucheng",
+      "cityid": "101090807",
+      "area_1": "河北",
+      "area_2": "衡水",
+      "area_3": "故城"
+    },
+    "2294": {
+      "weaid": "2294",
+      "citynm": "景县",
+      "cityno": "jingxian",
+      "cityid": "101090808",
+      "area_1": "河北",
+      "area_2": "衡水",
+      "area_3": "景县"
+    },
+    "2295": {
+      "weaid": "2295",
+      "citynm": "阜城",
+      "cityno": "fucheng",
+      "cityid": "101090809",
+      "area_1": "河北",
+      "area_2": "衡水",
+      "area_3": "阜城"
+    },
+    "2296": {
+      "weaid": "2296",
+      "citynm": "冀州",
+      "cityno": "jizhou",
+      "cityid": "101090810",
+      "area_1": "河北",
+      "area_2": "衡水",
+      "area_3": "冀州"
+    },
+    "2297": {
+      "weaid": "2297",
+      "citynm": "临城",
+      "cityno": "lincheng",
+      "cityid": "101090902",
+      "area_1": "河北",
+      "area_2": "邢台",
+      "area_3": "临城"
+    },
+    "2298": {
+      "weaid": "2298",
+      "citynm": "内丘",
+      "cityno": "neiqiu",
+      "cityid": "101090904",
+      "area_1": "河北",
+      "area_2": "邢台",
+      "area_3": "内丘"
+    },
+    "2299": {
+      "weaid": "2299",
+      "citynm": "柏乡",
+      "cityno": "baixiang",
+      "cityid": "101090905",
+      "area_1": "河北",
+      "area_2": "邢台",
+      "area_3": "柏乡"
+    },
+    "2300": {
+      "weaid": "2300",
+      "citynm": "隆尧",
+      "cityno": "longyao",
+      "cityid": "101090906",
+      "area_1": "河北",
+      "area_2": "邢台",
+      "area_3": "隆尧"
+    },
+    "2301": {
+      "weaid": "2301",
+      "citynm": "南和",
+      "cityno": "nanhe",
+      "cityid": "101090907",
+      "area_1": "河北",
+      "area_2": "邢台",
+      "area_3": "南和"
+    },
+    "2302": {
+      "weaid": "2302",
+      "citynm": "宁晋",
+      "cityno": "ningjin",
+      "cityid": "101090908",
+      "area_1": "河北",
+      "area_2": "邢台",
+      "area_3": "宁晋"
+    },
+    "2303": {
+      "weaid": "2303",
+      "citynm": "巨鹿",
+      "cityno": "julu",
+      "cityid": "101090909",
+      "area_1": "河北",
+      "area_2": "邢台",
+      "area_3": "巨鹿"
+    },
+    "2304": {
+      "weaid": "2304",
+      "citynm": "新河",
+      "cityno": "xinhe",
+      "cityid": "101090910",
+      "area_1": "河北",
+      "area_2": "邢台",
+      "area_3": "新河"
+    },
+    "2305": {
+      "weaid": "2305",
+      "citynm": "广宗",
+      "cityno": "guangzong",
+      "cityid": "101090911",
+      "area_1": "河北",
+      "area_2": "邢台",
+      "area_3": "广宗"
+    },
+    "2306": {
+      "weaid": "2306",
+      "citynm": "平乡",
+      "cityno": "pingxiang",
+      "cityid": "101090912",
+      "area_1": "河北",
+      "area_2": "邢台",
+      "area_3": "平乡"
+    },
+    "2307": {
+      "weaid": "2307",
+      "citynm": "威县",
+      "cityno": "weixian",
+      "cityid": "101090913",
+      "area_1": "河北",
+      "area_2": "邢台",
+      "area_3": "威县"
+    },
+    "2308": {
+      "weaid": "2308",
+      "citynm": "清河",
+      "cityno": "qinghe",
+      "cityid": "101090914",
+      "area_1": "河北",
+      "area_2": "邢台",
+      "area_3": "清河"
+    },
+    "2309": {
+      "weaid": "2309",
+      "citynm": "临西",
+      "cityno": "linxi",
+      "cityid": "101090915",
+      "area_1": "河北",
+      "area_2": "邢台",
+      "area_3": "临西"
+    },
+    "2310": {
+      "weaid": "2310",
+      "citynm": "任县",
+      "cityno": "renxian",
+      "cityid": "101090918",
+      "area_1": "河北",
+      "area_2": "邢台",
+      "area_3": "任县"
+    },
+    "2311": {
+      "weaid": "2311",
+      "citynm": "峰峰",
+      "cityno": "fengfeng",
+      "cityid": "101091002",
+      "area_1": "河北",
+      "area_2": "邯郸",
+      "area_3": "峰峰"
+    },
+    "2312": {
+      "weaid": "2312",
+      "citynm": "临漳",
+      "cityno": "linzhang",
+      "cityid": "101091003",
+      "area_1": "河北",
+      "area_2": "邯郸",
+      "area_3": "临漳"
+    },
+    "2313": {
+      "weaid": "2313",
+      "citynm": "成安",
+      "cityno": "chengan",
+      "cityid": "101091004",
+      "area_1": "河北",
+      "area_2": "邯郸",
+      "area_3": "成安"
+    },
+    "2314": {
+      "weaid": "2314",
+      "citynm": "大名",
+      "cityno": "daming",
+      "cityid": "101091005",
+      "area_1": "河北",
+      "area_2": "邯郸",
+      "area_3": "大名"
+    },
+    "2315": {
+      "weaid": "2315",
+      "citynm": "磁县",
+      "cityno": "cixian",
+      "cityid": "101091007",
+      "area_1": "河北",
+      "area_2": "邯郸",
+      "area_3": "磁县"
+    },
+    "2316": {
+      "weaid": "2316",
+      "citynm": "邱县",
+      "cityno": "qiuxian",
+      "cityid": "101091010",
+      "area_1": "河北",
+      "area_2": "邯郸",
+      "area_3": "邱县"
+    },
+    "2317": {
+      "weaid": "2317",
+      "citynm": "鸡泽",
+      "cityno": "jize",
+      "cityid": "101091011",
+      "area_1": "河北",
+      "area_2": "邯郸",
+      "area_3": "鸡泽"
+    },
+    "2318": {
+      "weaid": "2318",
+      "citynm": "魏县",
+      "cityno": "weixian",
+      "cityid": "101091014",
+      "area_1": "河北",
+      "area_2": "邯郸",
+      "area_3": "魏县"
+    },
+    "2319": {
+      "weaid": "2319",
+      "citynm": "青龙",
+      "cityno": "qinglong",
+      "cityid": "101091102",
+      "area_1": "河北",
+      "area_2": "秦皇岛",
+      "area_3": "青龙"
+    },
+    "2320": {
+      "weaid": "2320",
+      "citynm": "抚宁",
+      "cityno": "funing",
+      "cityid": "101091104",
+      "area_1": "河北",
+      "area_2": "秦皇岛",
+      "area_3": "抚宁"
+    },
+    "2321": {
+      "weaid": "2321",
+      "citynm": "卢龙",
+      "cityno": "lulong",
+      "cityid": "101091105",
+      "area_1": "河北",
+      "area_2": "秦皇岛",
+      "area_3": "卢龙"
+    },
+    "2322": {
+      "weaid": "2322",
+      "citynm": "北戴河",
+      "cityno": "beidaihe",
+      "cityid": "101091106",
+      "area_1": "河北",
+      "area_2": "秦皇岛",
+      "area_3": "北戴河"
+    }
+  }
+}
