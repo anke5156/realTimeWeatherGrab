@@ -37,8 +37,10 @@ public class EnterMain {
 
         // 每小时的毫秒数
         long hourSpan = 60 * 60 * 1000;
-        // 规定的首次执行时间为 10:18:00
-        final SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd '10:18:00'");
+        //测试过程,将时间调短了
+//        long hourSpan = 60 * 1000;
+        // 规定的首次执行时间为 15:05:00
+        final SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd '15:05:00'");
         // 首次运行时间
         Date startTime = null;
         try {
