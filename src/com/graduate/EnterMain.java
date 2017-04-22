@@ -49,11 +49,10 @@ public class EnterMain {
             e.printStackTrace();
         }
         // 如果今天的已经过了 首次运行时间就改为明天
-        if (System.currentTimeMillis() > startTime.getTime())
+        if (System.currentTimeMillis() > startTime.getTime()) {
             startTime = new Date(startTime.getTime() + hourSpan * 24);
-
+        }
         Timer t = new Timer();
-
         TimerTask task = new TimerTask() {
             @Override
             public void run() {
