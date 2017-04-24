@@ -2,6 +2,7 @@ package com.graduate;
 
 import com.graduate.core.RealTimeWeatherGrab;
 import com.graduate.tool.PropUtils;
+import com.graduate.tool.WRConfFile;
 import org.apache.log4j.LogManager;
 import org.apache.log4j.Logger;
 
@@ -25,22 +26,28 @@ public class EnterMain {
         PropUtils.checkPropFileToCache(FILE_PATH + FILE_NAME, "code_city");
 
         logger.info("获取实时天气数据开始,定时执行...");
-        schedule();
+
+        long hourSpan = Long.parseLong(WRConfFile.RValue("config/URL.Path.properties", "hourSpan"));
+        String beginTime = WRConfFile.RValue("config/URL.Path.properties", "beginTime");
+
+        logger.info("开始时间: " + beginTime);
+        logger.info("执行间隔:" + hourSpan);
+        schedule(beginTime, hourSpan);
     }
 
     /***定时器
      *
      */
-    public static void schedule() {
+    public static void schedule(String beginTime, long hourSpan) {
 
         final RealTimeWeatherGrab rtwg = new RealTimeWeatherGrab();
 
         // 每小时的毫秒数
-        long hourSpan = 60 * 60 * 1000;
+//        long hourSpan = 60 * 60 * 1000;
         //测试过程,将时间调短了
 //        long hourSpan = 60 * 1000;
-        // 规定的首次执行时间为 15:05:00
-        final SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd '15:05:00'");
+        // 规定的首次执行时间为 16:38:00
+        final SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd '" + beginTime + "'");
         // 首次运行时间
         Date startTime = null;
         try {
